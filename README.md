@@ -18,13 +18,19 @@
 
 # 🚀 Projects:
 - **F1DataNavigation**  
-  Un projet basé sur Python permettant d'explorer et d'analyser des données historiques de Formule 1. Il utilise des fichiers CSV contenant des informations sur les circuits, les pilotes, les constructeurs, les résultats de course, et bien plus encore. :contentReference[oaicite:0]{index=0}
+  Un projet basé sur Python permettant d'explorer et d'analyser des données historiques de Formule 1. Il utilise des fichiers CSV contenant des informations sur les circuits, les pilotes, les constructeurs, les résultats de course, et bien plus encore. [Référence 1]
 
 - **JSPictureStudio**  
-  Un site web créatif mettant en avant des photographies artistiques, offrant une interface utilisateur attrayante pour visualiser des galeries d'images. :contentReference[oaicite:1]{index=1}
+  Un site web créatif mettant en avant des photographies artistiques, offrant une interface utilisateur attrayante pour visualiser des galeries d'images. [Référence 2]
 
 - **QuizDom**  
-  Une application web construite avec Node.js, Express et Sequelize pour gérer les utilisateurs, les catégories, les questions et les résultats. Elle fournit des API pour l'authentification des utilisateurs, la gestion des catégories, la gestion des questions et le suivi des résultats. :contentReference[oaicite:2]{index=2}
+  Une application web construite avec Node.js, Express et Sequelize pour gérer les utilisateurs, les catégories, les questions et les résultats. Elle fournit des API pour l'authentification des utilisateurs, la gestion des catégories, la gestion des questions et le suivi des résultats. [Référence 3]
+
+# Références
+1. [Détails ou lien vers la première source.](https://github.com/JSJL29/F1DataNavigation)
+2. Détails ou lien vers la deuxième source.
+3. Détails ou lien vers la troisième source.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jacky-shang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jackyshang5@gmail.com) 
