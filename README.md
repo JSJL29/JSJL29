@@ -16,6 +16,15 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
+# 🚀 Projects:
+- **F1DataNavigation**  
+  Un projet basé sur Python permettant d'explorer et d'analyser des données historiques de Formule 1. Il utilise des fichiers CSV contenant des informations sur les circuits, les pilotes, les constructeurs, les résultats de course, et bien plus encore. :contentReference[oaicite:0]{index=0}
+
+- **JSPictureStudio**  
+  Un site web créatif mettant en avant des photographies artistiques, offrant une interface utilisateur attrayante pour visualiser des galeries d'images. :contentReference[oaicite:1]{index=1}
+
+- **QuizDom**  
+  Une application web construite avec Node.js, Express et Sequelize pour gérer les utilisateurs, les catégories, les questions et les résultats. Elle fournit des API pour l'authentification des utilisateurs, la gestion des catégories, la gestion des questions et le suivi des résultats. :contentReference[oaicite:2]{index=2}
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jacky-shang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jackyshang5@gmail.com) 
