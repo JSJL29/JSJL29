@@ -17,19 +17,15 @@
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 # 🚀 Projects:
-- **F1DataNavigation**  
-  Un projet basé sur Python permettant d'explorer et d'analyser des données historiques de Formule 1. Il utilise des fichiers CSV contenant des informations sur les circuits, les pilotes, les constructeurs, les résultats de course, et bien plus encore. [Référence 1]
+- [**F1DataNavigation**  ](https://github.com/JSJL29/F1DataNavigation)
+  Un projet basé sur Python permettant d'explorer et d'analyser des données historiques de Formule 1. Il utilise des fichiers CSV contenant des informations sur les circuits, les pilotes, les constructeurs, les résultats de course, et bien plus encore.
 
-- **JSPictureStudio**  
-  Un site web créatif mettant en avant des photographies artistiques, offrant une interface utilisateur attrayante pour visualiser des galeries d'images. [Référence 2]
+- [**JSPictureStudio**  ](https://github.com/JSJL29/JSPictureStudio)
+  Un site web créatif mettant en avant des photographies artistiques, offrant une interface utilisateur attrayante pour visualiser des galeries d'images.
 
-- **QuizDom**  
-  Une application web construite avec Node.js, Express et Sequelize pour gérer les utilisateurs, les catégories, les questions et les résultats. Elle fournit des API pour l'authentification des utilisateurs, la gestion des catégories, la gestion des questions et le suivi des résultats. [Référence 3]
+- [**QuizDom**  ](https://github.com/JSJL29/QuizDom)
+  Une application web construite avec Node.js, Express et Sequelize pour gérer les utilisateurs, les catégories, les questions et les résultats. Elle fournit des API pour l'authentification des utilisateurs, la gestion des catégories, la gestion des questions et le suivi des résultats. 
 
-# Références
-1. [Détails ou lien vers la première source.](https://github.com/JSJL29/F1DataNavigation)
-2. Détails ou lien vers la deuxième source.
-3. Détails ou lien vers la troisième source.
 
 
 ## 🌐 Socials:
