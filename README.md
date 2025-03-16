@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h1 align="center">Hi, I'm Jacky</h1><br>I'm a student in computer engineering, coding is my passion.
 
 
