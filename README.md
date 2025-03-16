@@ -18,13 +18,13 @@
 
 # 🚀 Projects:
 - [**F1DataNavigation**  ](https://github.com/JSJL29/F1DataNavigation)
-  Un projet basé sur Python permettant d'explorer et d'analyser des données historiques de Formule 1. Il utilise des fichiers CSV contenant des informations sur les circuits, les pilotes, les constructeurs, les résultats de course, et bien plus encore.
+  A Python-based project for exploring and analyzing historical Formula 1 data. It uses CSV files containing information about circuits, drivers, constructors, race results, and much more.
 
 - [**JSPictureStudio**  ](https://github.com/JSJL29/JSPictureStudio)
-  Un site web créatif mettant en avant des photographies artistiques, offrant une interface utilisateur attrayante pour visualiser des galeries d'images.
+  A creative website showcasing artistic photography, offering an attractive user interface for viewing image galleries.
 
 - [**QuizDom**  ](https://github.com/JSJL29/QuizDom)
-  Une application web construite avec Node.js, Express et Sequelize pour gérer les utilisateurs, les catégories, les questions et les résultats. Elle fournit des API pour l'authentification des utilisateurs, la gestion des catégories, la gestion des questions et le suivi des résultats. 
+  A web application built with Node.js, Express, and Sequelize to manage users, categories, questions, and results. It provides APIs for user authentication, category management, question handling, and result tracking.
 
 
 
